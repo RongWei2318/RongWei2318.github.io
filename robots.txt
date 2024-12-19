@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://RongWei2318.github.io/sitemap.xml
+Sitemap: https://rongwei2318.github.io/sitemap.xml
